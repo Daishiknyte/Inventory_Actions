@@ -1,0 +1,24 @@
+// PREP();
+
+//PREP(checkMoveActions);
+//PREP(checkClassActions);
+//PREP(checkCustomActions);
+//PREP(checkUnloadActions);
+PREP(closeActionMenu);
+//PREP(displayActionMenu);
+//PREP(doActionMoveTo);
+//PREP(doActionUnloadContainer);
+//PREP(doActionUnloadWeapon);
+PREP(filterInventoryBackpacks);
+PREP(filterInventoryItems);
+PREP(filterInventoryMagazines);
+PREP(filterInventoryWeapons);
+PREP(getInventoryData);
+PREP(getItemActions);
+PREP(handleClickInvList);
+PREP(handleLBClickInvList);
+PREP(handleLBDragInvList);
+PREP(inventoryOpened);
+PREP(inventoryOpenedDelay);
+PREP(isActionMenuOpen);
+PREP(openActionMenu);
